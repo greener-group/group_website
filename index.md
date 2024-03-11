@@ -18,14 +18,6 @@ We aim to use DMS to improve all-atom force fields so they can work across a var
 
 ## Joining the group
 
-~~~
-<p style="color:red;">There is currently an open postdoc position, deadline 16/02/24, see <a href="https://www.jobs.ac.uk/job/DFL014/postdoctoral-scientist-structural-studies-dr-joe-greener-lmb-2331">here</a>.</p>
-~~~
-
-~~~
-<p style="color:red;">There is currently an open PhD position, deadline 08/03/24, see <a href="https://www.findaphd.com/phds/project/better-molecular-simulations/?p168975">here</a>.</p>
-~~~
-
 We are currently looking to grow the group!
 
 If you are interested in a postdoc position, please contact Joe informally.
