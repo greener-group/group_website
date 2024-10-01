@@ -19,3 +19,11 @@ _Group leader_\\
 Formerly at the LMB as an independent researcher, and before that at UCL for a postdoc and Imperial for PhD.\\
 \\
 [Personal website](http://jgreener64.github.io) | [Twitter](https://twitter.com/jgreener64) | [GitHub](https://github.com/jgreener64)
+
+## Giuseppe Gambini
+
+_PhD student_\\
+\\
+Formerly at the University of Trento, Italy.\\
+\\
+[GitHub](https://github.com/Peppone98)
