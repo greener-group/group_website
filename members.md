@@ -24,6 +24,12 @@ Formerly at the LMB as an independent researcher, and before that at UCL for a p
 
 _PhD student_\\
 \\
-Formerly at the University of Trento, Italy.\\
+Working on fast machine learning interatomic potentials (MLIPs) for biomolecules. Formerly at the University of Trento, Italy.\\
 \\
 [GitHub](https://github.com/Peppone98)
+
+## Yuchi Guo
+
+_Masters project student_\\
+\\
+Working on electrostatic summation methods in Molly.jl. Part III physics student at the University of Cambridge.\\
