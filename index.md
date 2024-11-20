@@ -14,11 +14,13 @@ We are a research group at the [MRC Laboratory of Molecular Biology](https://www
 
 Molecular dynamics has shown success in obtaining biological insights by providing mechanistic interpretations of experimental data. However, the force fields used to describe how the atoms interact are biased towards keeping folded proteins folded and fail when applied to disordered proteins or protein aggregation. The idea of using the technique of automatic differentiation, most commonly used to train neural networks, to improve force fields is called differentiable molecular simulation (DMS). It overcomes the limitations of other methods by allowing multiple parameters to be tuned at once.
 
-We aim to use DMS to improve all-atom force fields so they can work across a variety of protein systems, allowing us to answer questions of biological importance involving disordered proteins and disease-associated protein aggregation. We also aim to use DMS to develop new force fields at different scales, such as implicit solvent or coarse-grained models, allowing larger systems to be simulated. The next few decades will see compute resources increase to the point where simulations at biologically relevant length and time scales become routine. It is crucial that we have accurate physical models available to take advantage of this and to probe the molecular basis of life.
+We aim to use DMS to improve all-atom force fields so they can work across a variety of protein systems, allowing us to answer questions of biological importance involving disordered proteins and disease-associated protein aggregation. We also aim to develop new machine learning interatomic potentials (MLIP) that are fast enough to simulate biomolecules. The next few decades will see compute resources increase to the point where simulations at biologically relevant length and time scales become routine. It is crucial that we have accurate physical models available to take advantage of this and to probe the molecular basis of life.
 
 ## Joining the group
 
 We are currently looking to grow the group!
+
+**A [postdoc position](https://www.nature.com/naturecareers/job/12831733/postdoctoral-scientist-structural-studies-dr-joe-greener-lmb-2516) is open until 2nd December 2024.**
 
 If you are interested in a postdoc position, please contact Joe informally.
 We welcome applicants with experience in programming, computational chemistry, physical simulation or machine learning.
