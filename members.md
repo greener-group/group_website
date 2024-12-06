@@ -18,7 +18,7 @@ _Group leader_\\
 \\
 Formerly at the LMB as an independent researcher, and before that at UCL for a postdoc and Imperial for PhD.\\
 \\
-[Personal website](http://jgreener64.github.io) | [Twitter](https://twitter.com/jgreener64) | [GitHub](https://github.com/jgreener64)
+[Personal website](http://jgreener64.github.io) | [X](https://twitter.com/jgreener64) | [Bluesky](https://bsky.app/profile/jgreener64.bsky.social) | [GitHub](https://github.com/jgreener64)
 
 ## Giuseppe Gambini
 
