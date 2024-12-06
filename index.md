@@ -20,14 +20,12 @@ We aim to use DMS to improve all-atom force fields so they can work across a var
 
 We are currently looking to grow the group!
 
-**A [postdoc position](https://www.nature.com/naturecareers/job/12831733/postdoctoral-scientist-structural-studies-dr-joe-greener-lmb-2516) is open until 2nd December 2024.**
-
 If you are interested in a postdoc position, please contact Joe informally.
 We welcome applicants with experience in programming, computational chemistry, physical simulation or machine learning.
 We are also interested in helping people apply for fellowships to obtain their own funding.
 
 PhD applications are handled as part of the [LMB PhD program](https://www2.mrc-lmb.cam.ac.uk/students/international-phd-programme).
-**A position is open until 3rd December 2024**.
+Applications are currently closed.
 
 University of Cambridge students can also apply to do part III projects in the group.
 
