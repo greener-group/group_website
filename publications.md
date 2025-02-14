@@ -18,6 +18,6 @@ Roesch E, Greener JG, MacLean AL, Nassar H, Rackauckas C, Holy TE and Stumpf MPH
 
 ## 2022
 
-Greener JG and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224) - [code](https://github.com/greener-group/progres)
+Greener JG and Jamali K. Fast protein structure searching using structure graph embeddings, *bioRxiv* (2022) - [link](https://www.biorxiv.org/content/10.1101/2022.11.28.518224) - [code](https://github.com/greener-group/progres) - [server](https://progres.mrc-lmb.cam.ac.uk)
 
 For earlier papers, see [Google Scholar](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=IG6H3tIAAAAJ).
