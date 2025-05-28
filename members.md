@@ -18,7 +18,7 @@ _Group leader_\\
 \\
 Formerly at the LMB as an independent researcher, and before that at UCL for a postdoc and Imperial for PhD.\\
 \\
-[Personal website](http://jgreener64.github.io) | [X](https://twitter.com/jgreener64) | [Bluesky](https://bsky.app/profile/jgreener64.bsky.social) | [GitHub](https://github.com/jgreener64)
+[Personal website](http://jgreener64.github.io) | [Bluesky](https://bsky.app/profile/jgreener64.bsky.social) | [GitHub](https://github.com/jgreener64)
 
 ## Giuseppe Gambini
 
@@ -33,3 +33,11 @@ Working on fast machine learning interatomic potentials (MLIPs) for biomolecules
 _Masters project student_\\
 \\
 Working on electrostatic summation methods in Molly.jl. Part III physics student at the University of Cambridge.\\
+
+## Ben Lehner
+
+_LMB Fellow_\\
+\\
+Head of Generative and Synthetic Genomics at the Wellcome Sanger Institute, Ben is associated with the group as a [LMB Fellow](https://www2.mrc-lmb.cam.ac.uk/group-leaders/lmb-fellows).\\
+\\
+[Personal website](https://www.sanger.ac.uk/person/lehner-ben) | [Bluesky](https://bsky.app/profile/benlehner.bsky.social)
