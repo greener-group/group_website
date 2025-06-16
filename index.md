@@ -24,6 +24,8 @@ We also have a [page on the LMB website](https://www2.mrc-lmb.cam.ac.uk/group-le
 
 ## Joining the group
 
+**There is currently an [open advert](https://www.nature.com/naturecareers/job/12840475/postdoctoral-scientist-structural-studies-dr-joe-greener-lmb-2633) for a postdoc position in the group on computational protein design and molecular simulation. Closes 13/07/25.**
+
 We are currently looking to grow the group!
 
 If you are interested in a postdoc position, please contact Joe informally.

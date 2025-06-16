@@ -28,11 +28,19 @@ Working on fast machine learning interatomic potentials (MLIPs) for biomolecules
 \\
 [GitHub](https://github.com/Peppone98)
 
-## Yuchi Guo
+## Terézia Slanináková
 
-_Masters project student_\\
+_Visiting PhD student_\\
 \\
-Working on electrostatic summation methods in Molly.jl. Part III physics student at the University of Cambridge.\\
+A PhD student at Masaryk University in Brno, Czech Republic, Terézia is interested in protein structure searching.\\
+
+## Alexandre Blanco González
+
+_Postdoc_\\
+\\
+Working on developing a universal biomolecular force field. Carried out a PhD at the Universidade de Santiago de Compostela in Spain.\\
+\\
+[GitHub](https://github.com/allexandre97)
 
 ## Ben Lehner
 
@@ -41,3 +49,7 @@ _LMB Fellow_\\
 Head of Generative and Synthetic Genomics at the Wellcome Sanger Institute, Ben is associated with the group as a [LMB Fellow](https://www2.mrc-lmb.cam.ac.uk/group-leaders/lmb-fellows).\\
 \\
 [Personal website](https://www.sanger.ac.uk/person/lehner-ben) | [Bluesky](https://bsky.app/profile/benlehner.bsky.social)
+
+# Former members
+
+- Yuchi Guo: a Masters project student working on electrostatic summation methods in Molly.jl.
