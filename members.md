@@ -28,12 +28,6 @@ Working on fast machine learning interatomic potentials (MLIPs) for biomolecules
 \\
 [GitHub](https://github.com/Peppone98)
 
-## Terézia Slanináková
-
-_Visiting PhD student_\\
-\\
-A PhD student at Masaryk University in Brno, Czech Republic, Terézia is interested in protein structure searching.\\
-
 ## Alexandre Blanco González
 
 _Postdoc_\\
@@ -53,3 +47,4 @@ Head of Generative and Synthetic Genomics at the Wellcome Sanger Institute, Ben 
 # Former members
 
 - Yuchi Guo: a Masters project student working on electrostatic summation methods in Molly.jl.
+- Terézia Slanináková: a visiting PhD student from Masaryk University in Brno, Czech Republic, interested in protein structure searching.
