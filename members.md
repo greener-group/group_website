@@ -36,6 +36,8 @@ Working on developing a universal biomolecular force field. Carried out a PhD at
 \\
 [GitHub](https://github.com/allexandre97)
 
+# Affiliated members
+
 ## Ben Lehner
 
 _LMB Fellow_\\

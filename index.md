@@ -24,8 +24,6 @@ We also have a [page on the LMB website](https://www2.mrc-lmb.cam.ac.uk/group-le
 
 ## Joining the group
 
-We are currently looking to grow the group!
-
 If you are interested in a postdoc position, please contact Joe informally.
 We welcome applicants with experience in programming, computational chemistry, physical simulation or machine learning.
 We are also interested in helping people apply for fellowships to obtain their own funding.
