@@ -36,6 +36,14 @@ Working on developing a universal biomolecular force field. Carried out a PhD at
 \\
 [GitHub](https://github.com/allexandre97)
 
+## Richard Geng
+
+_PhD student_\\
+\\
+Working on reactive machine learning interatomic potentials (MLIPs). Formerly at the University of Cambridge.\\
+\\
+[GitHub](https://github.com/geng-r)
+
 # Affiliated members
 
 ## Ben Lehner
