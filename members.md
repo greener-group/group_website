@@ -44,6 +44,22 @@ Working on reactive machine learning interatomic potentials (MLIPs). Formerly at
 \\
 [GitHub](https://github.com/geng-r)
 
+## Evianne Rovers
+
+_Postdoc_\\
+\\
+Working on protein design using molecular simulation. Carried out a PhD at the University of Toronto.\\
+\\
+[GitHub](https://github.com/ERovers)
+
+## Thea Schulze
+
+_Postdoc_\\
+\\
+Working on protein folding and free energy methods. Carried out a PhD at the University of Copenhagen.\\
+\\
+[GitHub](https://github.com/theaschulze) | [Bluesky](https://bsky.app/profile/tkschulze.bsky.social)
+
 # Affiliated members
 
 ## Ben Lehner
