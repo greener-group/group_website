@@ -66,7 +66,7 @@ Working on protein folding and free energy methods. Carried out a PhD at the Uni
 
 _LMB Fellow_\\
 \\
-Head of Generative and Synthetic Genomics at the Wellcome Sanger Institute, Ben is associated with the group as a [LMB Fellow](https://www2.mrc-lmb.cam.ac.uk/group-leaders/lmb-fellows).\\
+Head of Generative and Synthetic Genomics at the Wellcome Sanger Institute, Ben is associated with the group as a [LMB Fellow](https://mrclmb.ac.uk/research-leaders/fellows).\\
 \\
 [Personal website](https://www.sanger.ac.uk/person/lehner-ben) | [Bluesky](https://bsky.app/profile/benlehner.bsky.social)
 

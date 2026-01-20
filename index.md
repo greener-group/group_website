@@ -10,7 +10,7 @@
 
 # Improving molecular dynamics of biomolecules
 
-We are a research group at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk) in Cambridge, UK working on improving molecular simulations.
+We are a research group at the [MRC Laboratory of Molecular Biology](https://mrclmb.ac.uk) in Cambridge, UK working on improving molecular simulations.
 
 Molecular dynamics has shown success in obtaining biological insights by providing mechanistic interpretations of experimental data. However, the force fields used to describe how the atoms interact lack accuracy and can fail for example when applied to disordered proteins or protein aggregation.
 
@@ -20,7 +20,7 @@ The second approach is to develop machine learning interatomic potentials (MLIPs
 
 The next few decades will see compute resources increase to the point where simulations at biologically relevant length and time scales become routine. It is crucial that we have accurate physical models available to take advantage of this and to probe the molecular basis of life.
 
-We also have a [page on the LMB website](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/joe-greener).
+We also have a [page on the LMB website](https://mrclmb.ac.uk/research-leaders/joe-greener).
 
 ## Joining the group
 
@@ -28,14 +28,14 @@ If you are interested in a postdoc position, please contact Joe informally.
 We welcome applicants with experience in programming, computational chemistry, physical simulation or machine learning.
 We are also interested in helping people apply for fellowships to obtain their own funding.
 
-PhD applications are handled as part of the [LMB PhD program](https://www2.mrc-lmb.cam.ac.uk/students/international-phd-programme).
+PhD applications are handled as part of the [LMB PhD program](https://mrclmb.ac.uk/careers-and-people/phd-students).
 Applications are currently closed.
 
 University of Cambridge students can also apply to do part III or masters projects in the group.
 
 ## Contact
 
-jgreener at mrc-lmb.cam.ac.uk
+jgreener at mrclmb.ac.uk
 
 Joe Greener\\
 MRC Laboratory of Molecular Biology\\
