@@ -2,6 +2,10 @@
 
 # Publications
 
+## 2026
+
+Blanco-González A\*, Schulze TK\*, Rovers E, Greener JG. Training a force field for proteins and small molecules from scratch, *arXiv* (2026) - [link](https://arxiv.org/abs/2603.16770) - [code](https://github.com/greener-group/garnet)
+
 ## 2025
 
 Greener JG. Reversible molecular simulation for training classical and machine learning force fields, *Proceedings of the National Academy of Sciences* 122(22), e2426058122 (2025) - [link](https://www.pnas.org/doi/10.1073/pnas.2426058122) - [code](https://github.com/greener-group/rev-sim)

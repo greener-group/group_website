@@ -24,7 +24,7 @@ We also have a [page on the LMB website](https://mrclmb.ac.uk/research-leaders/j
 
 ## Joining the group
 
-If you are interested in a postdoc position, please contact Joe informally.
+If you are interested in a postdoc position, please contact Joe informally to see if there are vacancies.
 We welcome applicants with experience in programming, computational chemistry, physical simulation or machine learning.
 We are also interested in helping people apply for fellowships to obtain their own funding.
 
