@@ -60,6 +60,14 @@ Working on protein folding and free energy methods. Carried out a PhD at the Uni
 \\
 [GitHub](https://github.com/theaschulze) | [Bluesky](https://bsky.app/profile/tkschulze.bsky.social)
 
+## Matthew Gummow
+
+_MPhil student_\\
+\\
+Working on optimising Molly.jl on CPU and GPU. Formerly at Imperial College London.\\
+\\
+[GitHub](https://github.com/mattgummow)
+
 # Affiliated members
 
 ## Ben Lehner
