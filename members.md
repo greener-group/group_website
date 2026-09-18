@@ -40,7 +40,7 @@ Working on developing a universal biomolecular force field. Carried out a PhD at
 
 _PhD student_\\
 \\
-Working on reactive machine learning interatomic potentials (MLIPs). Formerly at the University of Cambridge.\\
+Working on reactive force fields. Formerly at the University of Cambridge.\\
 \\
 [GitHub](https://github.com/geng-r)
 
@@ -60,14 +60,6 @@ Working on protein folding and free energy methods. Carried out a PhD at the Uni
 \\
 [GitHub](https://github.com/theaschulze) | [Bluesky](https://bsky.app/profile/tkschulze.bsky.social)
 
-## Matthew Gummow
-
-_MPhil student_\\
-\\
-Working on optimising Molly.jl on CPU and GPU. Formerly at Imperial College London.\\
-\\
-[GitHub](https://github.com/mattgummow)
-
 # Affiliated members
 
 ## Ben Lehner
@@ -80,5 +72,12 @@ Head of Generative and Synthetic Genomics at the Wellcome Sanger Institute, Ben 
 
 # Former members
 
-- Yuchi Guo: a Masters project student working on electrostatic summation methods in Molly.jl.
-- Terézia Slanináková: a visiting PhD student from Masaryk University in Brno, Czech Republic, interested in protein structure searching.
+- Yuchi Guo: a Masters project student working on electrostatic summation methods in Molly.jl (2024-2025).
+- Terézia Slanináková: a visiting PhD student from Masaryk University in Brno, Czech Republic, interested in protein structure searching (2025).
+- Matthew Gummow, a Masters project student working on optimising Molly.jl on CPU and GPU (2026).
+
+# Former summer of code students
+
+- Jaydev Singh Rao (2022, 2023).
+- Pranay Venkatesh (2022).
+- Siva Sathyaseelan (2026).
