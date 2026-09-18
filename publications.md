@@ -4,11 +4,11 @@
 
 ## 2026
 
+Blanco-González A\*, Schulze TK\*, Rovers E, Greener JG. Training a force field for proteins and small molecules from scratch, *Chemical Science* (2026) - [link](https://doi.org/10.1039/d6sc02874h) - [code](https://github.com/greener-group/garnet)
+
 Bender A, Thomas MC, Scannell JW, Shaywitz DA, Ghiandoni GM, Greener JG, Pruteanu L-L, Jacobson RD, Handa K, Hirano M, Seal S, Mahale M, Schmidt MF, Ahfeldt T, Grisoni F, Cortes-Ciriano I. Artificial intelligence in drug discovery — what it is, where we stand and the path forward, *Nature Reviews Drug Discovery* (2026) - [link](https://doi.org/10.1038/s41573-026-01496-2) - [open link](https://rdcu.be/fyr77)
 
 Greener JG. Where next for structural bioinformatics?, *PLOS Biology* 24(7), e3003903 (2026) - [link](https://doi.org/10.1371/journal.pbio.3003903) - [blog post](https://jgreener64.github.io/posts/structural_bioinformatics)
-
-Blanco-González A\*, Schulze TK\*, Rovers E, Greener JG. Training a force field for proteins and small molecules from scratch, *arXiv* (2026) - [link](https://arxiv.org/abs/2603.16770) - [code](https://github.com/greener-group/garnet)
 
 ## 2025
 
